@@ -1,6 +1,6 @@
 # Calculadora | Projeto Final PretaLab 2024
 
-Projeto final do módulo de Lógica de Programação da PretaLab, desenvolvido com JavaScript.
+Projeto final do módulo de Lógica de Programação do Curso Introdutório da PretaLab, desenvolvido com JavaScript.
 
 Este projeto consiste em uma calculadora web com operações básicas e cálculo de média, criada para aplicar na prática os conceitos fundamentais de lógica de programação.
 
@@ -10,7 +10,7 @@ Este projeto consiste em uma calculadora web com operações básicas e cálculo
 
 ## 📌 Sobre o projeto
 
-Desenvolvido como projeto final do módulo, com o objetivo de consolidar conhecimentos em lógica de programação e construção de aplicações interativas utilizando JavaScript.
+Aplicação interativa desenvolvida para consolidar conhecimentos em lógica de programação utilizando JavaScript.
 
 ## 🛠 Tecnologias utilizadas
 
@@ -32,11 +32,7 @@ Desenvolvido como projeto final do módulo, com o objetivo de consolidar conheci
 
 ## 📚 Aprendizados
 
-Durante o desenvolvimento deste projeto, pratiquei:
-
 - Lógica de programação  
-- Variáveis e constantes  
-- Operadores aritméticos e lógicos  
 - Estruturas condicionais  
-- Manipulação de eventos com JavaScript  
-- Desenvolvimento de aplicações interativas  
+- Operadores aritméticos  
+- Manipulação com JavaScript
